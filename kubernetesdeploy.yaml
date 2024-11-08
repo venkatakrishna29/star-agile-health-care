@@ -16,7 +16,7 @@ spec:
     spec:
       containers:
       - name: medicure-container
-        image: bvky/medicure_image:v1.0
+        image: bvky/medicure-image:v1.0
         ports:
         - containerPort: 8082
 ---
